@@ -1,0 +1,25 @@
+{
+    "name": "FLIGHTTICKET",
+    "description": "Flight Ticket",
+    "image": "https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-flight-ticket-plane-pass-air-png-image_4757691.png",
+    "image_integrity": "sha256-/tih/7ew0eziEZIVD4qoTWb0YrElAuRG3b40SnEstyk=",
+    "properties": {
+        "simple_property": "Flight Ticket",
+        "rich_property": {
+            "name": "FlightTicket",
+            "value": "001",
+            "display_value": "001",
+            "class": "emphasis",
+            "css": {
+                "color": "#ffffff",
+                "font-weight": "bold",
+                "text-decoration": "underline"
+            }
+        },
+        "array_property": {
+            "name": "Artwork",
+            "value": [1, 2, 3, 4],
+            "class": "emphasis"
+        }
+    }
+}
